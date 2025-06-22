@@ -33,7 +33,7 @@ Step-by-Step Instructions
 Method 1: Using Command Line (Recommended)
 
 Download the Code
-bashgit clone https://github.com/yourusername/java-quiz-application.git
+bashgit clone https://github.com/VictoriaGraceL/Java-Quiz-App/blob/main/Main.java
 cd java-quiz-application
 
 Compile the Java File
