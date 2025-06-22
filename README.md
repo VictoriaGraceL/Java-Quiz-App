@@ -84,10 +84,15 @@ actionPerformed(): Handles button clicks and navigation
 
 📁 Project Structure
 java-quiz-application/
-│
-├── QuizTest.java          # Main application file
-├── README.md              # This file
-└── .gitignore            # Git ignore file (optional)
+
+
+ 
+ QuizTest.java          # Main application file
+
+ README.md              # This file
+
+.gitignore            # Git ignore file (optional)
+
 🛠️ Customization Ideas
 Want to make this quiz your own? Here are some ideas:
 
@@ -139,12 +144,10 @@ Java Swing Tutorial
 Codecademy Java Course
 
 📄 License
-This project is open source and available under the MIT License.
-👨‍💻 Author
-Created with ❤️ by Viktoriia Lavrenchuk
 
-GitHub: VictoriaGraceL
-Email: victoriagrace984@gmail.com
+This project is open-source and free to use for learning and personal projects.
+
+
 
 🙏 Acknowledgments
 
